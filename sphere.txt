@@ -1,0 +1,11 @@
+print("To calculate sphere details")
+PI=3.14
+r=float(input("enter the radius: "))
+d=2*r
+c=2*PI*r
+a=4*PI*(r**2)
+v=(4/3)*PI*(r**3)
+print"DIAMETER=",d
+print"CIRCUMFERENCE=",c
+print"AREA=",a
+print"VOLUME=",v
